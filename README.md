@@ -1,7 +1,7 @@
 # Human_Following_Robot
 
 
-## 🚗 Human-Following Robotic Car (Arduino-Based)
+## 🚗 Object-Following Robotic Car (Arduino-Based)
 
 This is a self-led Arduino project where I designed and built a robotic car capable of detecting and following objects in its path. The car uses a combination of ultrasonic and IR sensors to track the position of nearby objects and adjust its movement accordingly.
 
